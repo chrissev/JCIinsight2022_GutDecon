@@ -1,6 +1,8 @@
 # Microbiota dynamics in a randomized trial of gut decontamination during allogeneic hematopoietic cell transplantation
 Reference information: JCI Insight. 2022;7(7):e154344. 
+```
 https://doi.org/10.1172/jci. insight.154344
+```
 GitHub: https://github.com/chrissev/JCIinsight2022_GutDecon.git
 
 
@@ -10,8 +12,12 @@ GitHub: https://github.com/chrissev/JCIinsight2022_GutDecon.git
 # Exploratory aims look at clinical outcomes including acute graft-versus-host disease (aGVHD) and the risk of bloodstream 
 # infections (BSI).
 # Link to NCBI BioProject: 
+```
 https://www.ncbi.nlm.nih.gov/bioproject/787952 
+```
 
 # Bhattlab workflows
 Computational workflows for metagenomics tasks, packaged with Snakemake, Singularity and Conda.
+```
 https://github.com/bhattlab/bhattlab_workflows
+```
