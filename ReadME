@@ -1,0 +1,23 @@
+# Microbiota dynamics in a randomized trial of gut decontamination during allogeneic hematopoietic cell transplantation
+Reference information: JCI Insight. 2022;7(7):e154344. 
+```
+https://doi.org/10.1172/jci. insight.154344
+```
+GitHub: https://github.com/chrissev/JCIinsight2022_GutDecon.git
+
+
+# Raw_metagenomic_sequencing_for_Pediatrics_Gut_Decontamination_NCT02641236
+# A Randomized Phase 2 Study to examine the impact of gut decontamination (GD) with oral vancomycin-polymyxin B on the 
+# intestinal microbiome composition in pediatric patients undergoing allogeneic hematopoietic cell transplant (allo-HCT). 
+# Exploratory aims look at clinical outcomes including acute graft-versus-host disease (aGVHD) and the risk of bloodstream 
+# infections (BSI).
+# Link to NCBI BioProject: 
+```
+https://www.ncbi.nlm.nih.gov/bioproject/787952 
+```
+
+# Bhattlab workflows
+Computational workflows for metagenomics tasks, packaged with Snakemake, Singularity and Conda.
+```
+https://github.com/bhattlab/bhattlab_workflows
+```
